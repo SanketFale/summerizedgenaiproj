@@ -1,0 +1,19 @@
+ "hallucination" — especially in the context of our previous conversation about generative AI.
+In AI (particularly generative AI like large language models — LLMs such as me, ChatGPT, Claude, Gemini, etc.), the correct and widely used term is:
+AI hallucination (or generative AI hallucination / LLM hallucination)
+What is an AI hallucination?
+It happens when a generative AI model confidently produces information that is:
+
+Factually wrong
+Made-up / fabricated
+Misleading
+Nonsensical
+
+… but presents it as if it were completely true and accurate.
+The output often sounds very plausible, is written in fluent, professional language, and includes invented details (fake citations, wrong dates, nonexistent people/events, impossible facts, etc.).
+Classic Everyday Examples
+
+A model claims: "The winner of the 2026 Cricket World Cup was India" (when the tournament hasn't happened yet or the result is different).
+It invents a fake research paper: "According to Smith et al. (2025) in Nature…" — but no such paper exists.
+Image generators give people six fingers, extra limbs, or text that looks like real writing but is gibberish.
+Code suggestions include functions that look correct but actually crash or do the wrong thing
