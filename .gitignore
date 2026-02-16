@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.env.*
+myenv/
+
+# Node / Frontend
+node_modules/
+.vite/
+dist/
+build/
+*.log
+
+# Windows / Editors
+Thumbs.db
+*.sublime-*
+.DS_Store
